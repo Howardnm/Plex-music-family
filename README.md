@@ -41,13 +41,13 @@
 
 3、**MusicTag规范化：四步骤**
 
-##### 第一步：设置打勾，（下图*号**必填**）
+- 第一步：设置打勾，（下图*号**必填**）
 
-##### 第二步：歌词规范化
+- 第二步：歌词规范化
 
-##### 第三步：音乐列表（全选），一键批量修改
+- 第三步：音乐列表（全选），一键批量修改
 
-##### 第四步：规范文件名
+- 第四步：规范文件名
 
 <img src="https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png" alt="QQ截图20220711182347" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178250457-61edcf71-3b39-4cd9-96d4-6578c493cb80.png" alt="QQ截图20220711190155" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178250894-decb435e-e6af-4025-8d72-1cb8a052db1b.png" alt="image-20220711182137692" style="width:400px;" />
 
