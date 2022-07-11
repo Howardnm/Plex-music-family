@@ -10,9 +10,11 @@
 
 ## 音乐品质
 
+```
 - 音乐库采用《择优劣汰》的方式储存，遇到更好的品质，请覆盖替换
 - 优先格式：无损flac > 有损mp3 （推荐这两个格式）
 - 不接受：如 wav 等等（占空间，性价比低）
+```
 
 ## 音乐同步库
 
@@ -58,6 +60,7 @@
 
 ## 音乐下载渠道
 
+- pt站（有条件的话）
 - kw音乐（免安装开心版）[kw-music](https://github.com/Howardnm/Plex-music-family/releases/tag/basics)
 
 ```
