@@ -13,8 +13,8 @@
 
 2、为了保护**音乐库**，采用两种同步链接：
 
-- 读写同步链接：<u>进群身份验证</u>
-- 只读同步链接：
+- 读写同步链接：<u>进群身份验证</u>，<u>统计感兴趣的人数，人数够立刻开启</u>
+- 只读同步链接：<u>统计感兴趣的人数，人数够立刻开启</u>
 
 ### 二、音乐文件规范化
 
@@ -38,7 +38,7 @@
 <img src="https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png" alt="QQ截图20220711182347" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="width:400px;" /><img src="https://raw.githubusercontent.com/Howardnm/PicGo-image/main/img/image-20220711182137692.png" alt="image-20220711182137692" style="width:400px;" />
 
 ### 三、下载渠道
-- kw音乐（开心版）[kw-music](https://github.com/Howardnm/Plex-music-family/releases/tag/basics)
+- kw音乐（免安装开心版）[kw-music](https://github.com/Howardnm/Plex-music-family/releases/tag/basics)
 
 ```
 《qq歌单、网易云歌单》导入到《酷我》
