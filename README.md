@@ -40,7 +40,7 @@
 
 ##### 第二步：音乐列表（全选），一键批量修改
 
-<img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="zoom:10%;" />
+<img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="width:150px;" />
 
 ##### 第三步：规范文件名
 
