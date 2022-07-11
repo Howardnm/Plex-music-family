@@ -39,16 +39,17 @@
  周杰伦-最伟大的作品（**主题曲）.mp3
 ```
 
-3、**MusicTag规范化：三步骤**
+3、**MusicTag规范化：四步骤**
 
 ##### 第一步：设置打勾，（下图*号**必填**）
 
-##### 第二步：音乐列表（全选），一键批量修改
+##### 第二步：歌词规范化
 
-##### 第三步：规范文件名
+##### 第三步：音乐列表（全选），一键批量修改
 
-<img src="https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png" alt="QQ截图20220711182347" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="width:400px;" /><img src="https://raw.githubusercontent.com/Howardnm/PicGo-image/main/img/image-20220711182137692.png" alt="image-20220711182137692" style="width:400px;" />
+##### 第四步：规范文件名
 
+<img src="https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png" alt="QQ截图20220711182347" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178250457-61edcf71-3b39-4cd9-96d4-6578c493cb80.png" alt="QQ截图20220711190155" style="width:400px;" /><img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="width:400px;" /><img src="https://raw.githubusercontent.com/Howardnm/PicGo-image/main/img/image-20220711182137692.png" alt="image-20220711182137692" style="width:400px;" />
 
 ## 音乐下载渠道
 
