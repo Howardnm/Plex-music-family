@@ -1,5 +1,3 @@
-# 项目尚未正式启动，等凑齐人，征求各方意见后，再正式启动！！
-
 # Plex-music-family
 
 1、通过一起维护p2p音乐同步库，让plex音乐库越来越强大
@@ -12,3 +10,4 @@
 
 [wiki](https://antique-hacksaw-c2a.notion.site/Plex-music-family-029133efa133486db0c3624e4c5521de)
 
+### 项目处于预测试阶段
