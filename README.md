@@ -57,6 +57,6 @@
 - kw音乐（免安装开心版）[kw-music](https://github.com/Howardnm/Plex-music-family/releases/tag/basics)
 
 ```
-《qq歌单、网易云歌单》导入到《酷我》
+《qq歌单、网易云歌单》导入到《酷我》教程：
 
 ```
