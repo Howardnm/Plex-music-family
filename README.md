@@ -36,14 +36,14 @@
 
 ##### 第一步：设置打勾，（下图*号**必填**）
 
-![QQ截图20220711182347](https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png)
-
+<img src="https://user-images.githubusercontent.com/55622355/178245221-ae44c705-b7e4-4d87-8922-be0198d68cab.png" alt="QQ截图20220711182347" style="zoom:50%;" />
 
 ##### 第二步：音乐列表（全选），一键批量修改
 
-![QQ截图20220711182532](https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png)
-
+<img src="https://user-images.githubusercontent.com/55622355/178245246-73c62f7b-56a6-43a4-b87a-26fcf2a8d8bb.png" alt="QQ截图20220711182532" style="zoom:50%;" />
 
 ##### 第三步：规范文件名
 
 ![image-20220711182137692](https://raw.githubusercontent.com/Howardnm/PicGo-image/main/img/image-20220711182137692.png)
+
+
