@@ -10,7 +10,6 @@
 
 [wiki](https://antique-hacksaw-c2a.notion.site/Plex-music-family-029133efa133486db0c3624e4c5521de)
 
-
-
-![image](https://user-images.githubusercontent.com/55622355/178325710-1c69f9d7-7fa8-48ce-a3f5-9b77be736993.png)
+![image](https://user-images.githubusercontent.com/55622355/201292878-a3e511dd-976e-4e0b-970e-f857b1048314.png)
 ![image](https://user-images.githubusercontent.com/55622355/201292688-ce72de8c-2508-4c68-9f68-aae4b3fe063e.png)
+![image](https://user-images.githubusercontent.com/55622355/201292969-87b6a1c4-8258-4b7c-8134-fd95d8869a67.png)
